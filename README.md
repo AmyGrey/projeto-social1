@@ -1,6 +1,9 @@
-# projeto-social1
-Projeto de redes Sociais
-Criado com HTML e CSS, um projeto onde possui direcionamento para minhas redes sociais.
+# Minhas redes Sociais
+
+O meu primeiro projeto 😍
+
+Foi feito com HTML e CSS, ele mostra todas minhas redes sociais em um molde de smartphone.
+
 
 
 ![s1](https://github.com/isabela-rodriguesch/projeto-social1/assets/130769029/96f1295f-a919-4e6e-bfa7-70b14bf657b1)
